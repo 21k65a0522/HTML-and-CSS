@@ -1,0 +1,22 @@
+<html>
+   <head>
+    <style>
+      .title{
+         color: blue;
+         text-align: center;
+      }
+      img{
+         padding-left: 400px;
+         padding-right: 600px;
+      }
+    </style>
+   </head>
+   <body>
+    <h1 class="title"> Pacific Rim 2 Uprising</h1>
+    <h2 > Home </h2>
+    <h2> Know </h2>
+    <h2> Contact </h2>
+    <img src="https://wallpapercave.com/wp/wp9124535.jpg" height="500px">
+    <a href="https://en.wikipedia.org/wiki/Pacific_Rim_Uprising"> Pacific rim Wikipedia</a>
+   </body> 
+</html>
